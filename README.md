@@ -1,4 +1,4 @@
-# 📧 Spam Detection using TensorFlow
+# 📧 HamOrSpam
 
 This project implements a binary text classification model to detect **spam** messages from SMS texts. It uses TensorFlow and Keras, with a text vectorization layer and a simple neural network.
 
