@@ -35,7 +35,7 @@ The model was trained for **10 epochs** with the following performance:
 `pred_text = "how are you doing today?"`
 
 **Model output:**  
-- Spam Probability: 0.0129  
+- Spam Probability: 0.0024
 - Predicted Label: ham
 
 ---
